@@ -26,7 +26,7 @@ void solutia1() {
 numere naturale din intervalul [10,103], elemente ale unui tablou unidimensional. Programul afişează pe
 ecran un număr natural k, dacă toate numerele din șir au câte k cifre, sau mesajul NU, în caz contrar.
 Exemplu: pentru n=5 și tabloul (100, 712, 310, 130, 490), se afișează pe ecran 3
-pentru n=5 și tabloul (1000, 712, 310, 130, 490), se afișează pe ecran mesajul NU*/
+pentru n=5 și tabloul (1000, 712, 310, 130, 490), se afișează pe ecran mesajul NU.*/
 void solutia2() {
 	int n = 5, v[100] = { 100, 712, 310, 130, 490 };
 
