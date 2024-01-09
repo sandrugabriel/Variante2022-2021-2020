@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Varianta3-Stiinte2020", "Varianta3-Stiinte2020\Varianta3-Stiinte2020.vcxproj", "{93A0AB17-94B3-4118-AF36-A2C46B0C1DE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93A0AB17-94B3-4118-AF36-A2C46B0C1DE8}.Debug|x64.ActiveCfg = Debug|x64
+		{93A0AB17-94B3-4118-AF36-A2C46B0C1DE8}.Debug|x64.Build.0 = Debug|x64
+		{93A0AB17-94B3-4118-AF36-A2C46B0C1DE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{93A0AB17-94B3-4118-AF36-A2C46B0C1DE8}.Debug|x86.Build.0 = Debug|Win32
+		{93A0AB17-94B3-4118-AF36-A2C46B0C1DE8}.Release|x64.ActiveCfg = Release|x64
+		{93A0AB17-94B3-4118-AF36-A2C46B0C1DE8}.Release|x64.Build.0 = Release|x64
+		{93A0AB17-94B3-4118-AF36-A2C46B0C1DE8}.Release|x86.ActiveCfg = Release|Win32
+		{93A0AB17-94B3-4118-AF36-A2C46B0C1DE8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD3D25E7-D44A-42A5-8930-18783CADA460}
+	EndGlobalSection
+EndGlobal
